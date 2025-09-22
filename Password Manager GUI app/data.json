@@ -1,0 +1,14 @@
+{
+    "Ebay": {
+        "email": "test@test.com",
+        "password": "test@test"
+    },
+    "Amazon": {
+        "email": "test@test.com",
+        "password": "test@test"
+    },
+    "Twitter": {
+        "email": "test@test.com",
+        "password": "test@test"
+    }
+}
