@@ -1,6 +1,6 @@
 from random import *
 
-#seed("lillebæ")
+#seed("test")
 
 #for i in range(100):
     #print(randint(0, 1000))
@@ -12,9 +12,10 @@ from random import *
 
 from secrets import *
 
-seed("Lillebæ")
+seed("test")
 
 for i in range(100):
     print(randbelow(1001))
+
 
 
